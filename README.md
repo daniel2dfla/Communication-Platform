@@ -45,9 +45,9 @@
    - [x]  Criar serviço de consulta
    - [x]  Testar a API
  * Funcionalidade de cancelamento de agendamento de notificação:
-   - [ ]  Criar API de cancelamento de agendamento de notificação
-   - [ ]  Criar serviço de cancelamento
-   - [ ]  Testar a API
+   - [x]  Criar API de cancelamento de agendamento de notificação
+   - [x]  Criar serviço de cancelamento
+   - [x]  Testar a API
  * Rotina de checagem e envio de notificação:
    - [ ]  Criar rotina de checagem via Spring Scheduler
    - [ ]  Testar se a rotina está funcionado
