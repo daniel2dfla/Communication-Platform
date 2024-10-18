@@ -1,4 +1,4 @@
-package desafio.plataforma.comunicacao;
+package communication.platform.challenge;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

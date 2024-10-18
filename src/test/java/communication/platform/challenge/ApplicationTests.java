@@ -1,4 +1,4 @@
-package desafio.plataforma.comunicacao;
+package communication.platform.challenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
