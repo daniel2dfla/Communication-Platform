@@ -32,8 +32,8 @@
  * Introdução:
    - [x] Entendendo o desafio e iniciando o projeto Java.
  * Comunicação com o banco de dados:
-   - [ ] Configurando o MySQL no Docker.
-   - [ ] Configurando a comunicacao do Spring Boot com o MySQL.
+   - [x] Configurando o MySQL no Docker.
+   - [x] Configurando a comunicacao do Spring Boot com o MySQL.
  * Funcionalidade de solicitação de agendamento de notificação:
    - [ ] Mapear as entidades (Notification, Channel e Status)
    - [ ]  Criar config de inicialização das tabelas (Channel e Status)
