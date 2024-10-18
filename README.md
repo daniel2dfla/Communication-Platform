@@ -35,11 +35,11 @@
    - [x] Configurando o MySQL no Docker.
    - [x] Configurando a comunicacao do Spring Boot com o MySQL.
  * Funcionalidade de solicitação de agendamento de notificação:
-   - [ ] Mapear as entidades (Notification, Channel e Status)
-   - [ ]  Criar config de inicialização das tabelas (Channel e Status)
-   - [ ]  Criar API de solicitação de agendamento de notificação
-   - [ ]  Criar serviço de persistência da solicitação
-   - [ ]  Testar o fluxo (api → service → mysql)
+   - [x] Mapear as entidades (Notification, Channel e Status)
+   - [x]  Criar config de inicialização das tabelas (Channel e Status)
+   - [x]  Criar API de solicitação de agendamento de notificação
+   - [x]  Criar serviço de persistência da solicitação
+   - [x]  Testar o fluxo (api → service → mysql)
  * Funcionalidade de consultar a situação de agendamento de notificação:
    - [ ]  Criar API de consulta de solicitação de agendamento de notificação
    - [ ]  Criar serviço de consulta
