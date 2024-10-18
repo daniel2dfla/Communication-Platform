@@ -49,9 +49,9 @@
    - [x]  Criar serviço de cancelamento
    - [x]  Testar a API
  * Rotina de checagem e envio de notificação:
-   - [ ]  Criar rotina de checagem via Spring Scheduler
-   - [ ]  Testar se a rotina está funcionado
-   - [ ]  Criar serviço de consulta de notificações disponíveis para envio
-   - [ ]  Criar mock de envio de notificação com logging
-   - [ ]  Criar serviço que atualiza o status da notificação
-   - [ ]  Testar o fluxo completo (api → agendamento → rotina → envia notificacao → atualiza base)
+   - [x]  Criar rotina de checagem via Spring Scheduler
+   - [x]  Testar se a rotina está funcionado
+   - [x]  Criar serviço de consulta de notificações disponíveis para envio
+   - [x]  Criar mock de envio de notificação com logging
+   - [x]  Criar serviço que atualiza o status da notificação
+   - [x]  Testar o fluxo completo (api → agendamento → rotina → envia notificacao → atualiza base)
