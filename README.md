@@ -41,9 +41,9 @@
    - [x]  Criar serviço de persistência da solicitação
    - [x]  Testar o fluxo (api → service → mysql)
  * Funcionalidade de consultar a situação de agendamento de notificação:
-   - [ ]  Criar API de consulta de solicitação de agendamento de notificação
-   - [ ]  Criar serviço de consulta
-   - [ ]  Testar a API
+   - [x]  Criar API de consulta de solicitação de agendamento de notificação
+   - [x]  Criar serviço de consulta
+   - [x]  Testar a API
  * Funcionalidade de cancelamento de agendamento de notificação:
    - [ ]  Criar API de cancelamento de agendamento de notificação
    - [ ]  Criar serviço de cancelamento
